@@ -124,3 +124,6 @@ static/img/   images SVG (52 cartes, 2 jokers, dos)
 ```
 
 Les images des cartes et du dos ont été converties en SVG avec VTracer. Les deux jokers sont de simples SVG (un rectangle et le texte JOKER).
+
+## Lien Video
+https://youtu.be/7NP5Vgpd0TA
